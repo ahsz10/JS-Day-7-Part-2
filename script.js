@@ -1,3 +1,5 @@
+// Lab 7 part 2 Clock and Alarm
+
 // Days Array
 let week_days = ["sun", "mon", "tus", "wed", "thu", "fri", "sat"];
 
